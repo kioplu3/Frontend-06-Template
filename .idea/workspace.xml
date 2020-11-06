@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da5c97b-3143-4937-8fab-fa8210a755c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 01/Trafficlight/trafficlight.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 01/Trafficlight/trafficlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 02/path/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 01/Trafficlight/trafficlight.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 01/Trafficlight/trafficlight.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -75,7 +76,13 @@
       <updated>1604133425930</updated>
       <workItem from="1604133427251" duration="3158000" />
       <workItem from="1604136690795" duration="12680000" />
-      <workItem from="1604204360070" duration="6106000" />
+      <workItem from="1604204360070" duration="7107000" />
+      <workItem from="1604303388906" duration="6190000" />
+      <workItem from="1604397884319" duration="6460000" />
+      <workItem from="1604484008711" duration="279000" />
+      <workItem from="1604505526643" duration="671000" />
+      <workItem from="1604636809127" duration="688000" />
+      <workItem from="1604650450914" duration="3377000" />
     </task>
     <servers />
   </component>
@@ -92,6 +99,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1874" height="354" key="GridCell.Tab.0.bottom" timestamp="1604136776259">
@@ -162,9 +170,14 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2369" y="174" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604133722127" />
-    <state x="2544" y="246" key="run.anything.popup" timestamp="1604207256332">
+    <state x="624" y="267" key="run.anything.popup" timestamp="1604652128745">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="267" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080/3840.0.1920.1080@0.27.1920.1053" timestamp="1604652128745" />
+    <state x="2544" y="246" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604207256332" />
+    <state x="2543" y="237" key="search.everywhere.popup" timestamp="1604304021552">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2544" y="246" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604207256332" />
+    <state x="2543" y="237" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604304021552" />
   </component>
 </project>
