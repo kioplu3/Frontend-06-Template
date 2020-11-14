@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5da5c97b-3143-4937-8fab-fa8210a755c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 02/path/1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 01/Trafficlight/trafficlight.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week 01/Trafficlight/trafficlight.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,18 +49,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week 03/2.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="ticTacToe.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Frontend-06-Template/Week 01/TicTacToe/ticTacToe.html" useBuiltInWebServerPort="true">
+    <configuration name="2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Frontend-06-Template/Week 03/2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.ticTacToe.html" />
+        <item itemvalue="JavaScript Debug.2.html" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +80,12 @@
       <workItem from="1604484008711" duration="279000" />
       <workItem from="1604505526643" duration="671000" />
       <workItem from="1604636809127" duration="688000" />
-      <workItem from="1604650450914" duration="3377000" />
+      <workItem from="1604650450914" duration="4166000" />
+      <workItem from="1605012719655" duration="2432000" />
+      <workItem from="1605088842840" duration="5334000" />
+      <workItem from="1605177162592" duration="2896000" />
+      <workItem from="1605247882497" duration="3157000" />
+      <workItem from="1605352231532" duration="2783000" />
     </task>
     <servers />
   </component>
@@ -102,6 +105,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="704" y="381" width="682" height="443" key="#Vim_Emulation" timestamp="1605182176055">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="704" y="381" width="682" height="443" key="#Vim_Emulation/0.27.1920.1053/1920.0.1920.1080/3840.0.1920.1080@0.27.1920.1053" timestamp="1605182176055" />
+    <state x="2338" y="197" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605098325844">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="197" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605098325844" />
+    <state x="654" y="354" width="601" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605182159504">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="654" y="354" width="601" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/1920.0.1920.1080/3840.0.1920.1080@0.27.1920.1053" timestamp="1605182159504" />
+    <state x="2663" y="282" width="424" height="513" key="FileChooserDialogImpl" timestamp="1605098305923">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="282" width="424" height="513" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605098305923" />
     <state width="1874" height="354" key="GridCell.Tab.0.bottom" timestamp="1604136776259">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
